@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+My name is Rohan. I'm a UX / UI designer.
